@@ -1,71 +1,60 @@
-<h1 align="center">Hi there👋, I'm Afrah Alanazi</h1>
-<h3 align="center">📊 Data Analyst | Data Scientist | AI Enthusiast</h3>
+<!-- Header -->
+<h1 align="center">Hi there 👋, I'm Afrah Alanazi</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1B9AAA&center=true&vCenter=true&width=450&lines=📊+Data+Analyst;🤖+AI+Enthusiast;📈+Data+Scientist;💡+Turning+Data+into+Insights" alt="Typing SVG" />
+</h3>
 
+<!-- About Me -->
 <p align="center">
-  Passionate about turning raw data into meaningful insights.  
-  Skilled in Data Analysis, Machine Learning, and Predictive Analytics.  
-  Experienced in building data-driven solutions using 
-  <b>Python</b> 🐍 | 
-  <b>SQL</b> 🛢️ | 
-  <b>Power BI</b> 📊 | 
-  <b>Excel</b> 📗.  
-  Love solving real-world problems with AI and data visualization.  
+  🌟 Passionate about turning <b>raw data</b> into <b>meaningful insights</b>. <br>
+  🧠 Skilled in <b>Data Analysis</b>, <b>Machine Learning</b>, and <b>Predictive Analytics</b>. <br>
+  🛠️ Experienced in building <b>data-driven solutions</b> using <b>Python</b>, <b>SQL</b>, <b>Power BI</b>, and <b>Excel</b>. <br>
+  🚀 Love solving <b>real-world problems</b> using <b>AI</b> and <b>data visualization</b>.
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=afrahjaber&label=Profile%20views&color=0e75b6&style=flat" alt="afrahjaber" /> 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afrahjaber&label=Profile%20views&color=1B9AAA&style=flat" alt="afrahjaber" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=afrahjaber" alt="afrahjaber" />
-  </a> 
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="http://linkedin.com/in/afrah-alanazi-b37208271" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afrah alanazi" height="30" width="40" />
+<!-- Social Links -->
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="http://linkedin.com/in/afrah-alanazi-b37208271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:afrah.alanazi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> 
-  </a> 
-
+<!-- Languages and Tools -->
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center"> 
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 
   <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 
   <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Excel" width="40" height="40" onerror="this.onerror=null;this.src='https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg';"/>
-  </a>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrahjaber&show_icons=true&locale=en&layout=compact" alt="afrahjaber" />
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrahjaber&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrahjaber&theme=tokyonight" alt="GitHub streak" width="48%" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrahjaber&show_icons=true&locale=en" alt="afrahjaber" />
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahjaber&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrahjaber&" alt="afrahjaber" />
-</p>
-
