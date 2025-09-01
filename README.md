@@ -48,9 +48,7 @@
   </a>
 
   <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
