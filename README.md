@@ -1,7 +1,8 @@
-<!-- Header -->
 <h1 align="center">Hi there 👋, I'm Afrah Alanazi</h1>
+
+<!-- Typing Animation (Fixed) -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1B9AAA&center=true&vCenter=true&width=450&lines=📊+Data+Analyst;🤖+AI+Enthusiast;📈+Data+Scientist;💡+Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1B9AAA&center=true&vCenter=true&width=500&lines=📊+Data+Analyst;🤖+AI+Enthusiast;📈+Data+Scientist;💡+Turning+Data+into+Insights" alt="Typing SVG" />
 </h3>
 
 <!-- About Me -->
@@ -23,38 +24,5 @@
   <a href="http://linkedin.com/in/afrah-alanazi-b37208271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:afrahjaber0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center"> 
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-
-  <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-
-  <!-- Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrahjaber&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrahjaber&theme=tokyonight" alt="GitHub streak" width="48%" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahjaber&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
-</p>
+  <a href="mailto:afrah.alanazi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=
