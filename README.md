@@ -15,15 +15,38 @@
 ---
 
 ### 🌐 Connect with me
-- LinkedIn  
-- Email  
+<p>
+<a href="https://www.linkedin.com/in/afrah-alanazi-b37208271">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Afrahjaber0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ### 🛠️ Languages and Tools
-Python • SQL • Power BI • Excel  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-<!-- GitHub stats cards هنا -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=afrahjaber&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrahjaber"/>
+</p>
+
+---
+
+### 📈 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahjaber&layout=compact"/>
+</p>
