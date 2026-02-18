@@ -50,6 +50,7 @@
 
 ### 📈 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrahJaber&layout=compact&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AfrahJaber&show_icons=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfrahJaber"/>
 </p>
 
