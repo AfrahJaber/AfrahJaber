@@ -49,6 +49,6 @@
 ---
 
 ### 📈 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahjaber&layout=compact&langs_count=6"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AfrahJaber&show_icons=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfrahJaber"/>
+
