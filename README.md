@@ -9,7 +9,7 @@
 
 🌟 Passionate about turning raw data into actionable insights  
 🧠 Skilled in Data Analysis, Machine Learning, and Predictive Analytics  
-🛠️ Building data-driven solutions using <b>Python, SQL, Power BI, Excel</b>  
+🛠️ Building data-driven solutions using <b>Python, R, SQL, Power BI, Tableau, Excel</b>  
 🚀 Interested in AI, data visualization, and real-world problem solving  
 
 ---
@@ -29,10 +29,12 @@
 ### 🛠️ Languages and Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/>
 </p>
 
@@ -40,7 +42,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afrahjaber&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=afrahjaber&show_icons=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrahjaber"/>
 </p>
 
@@ -48,5 +50,5 @@
 
 ### 📈 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahjaber&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahjaber&layout=compact&langs_count=6"/>
 </p>
