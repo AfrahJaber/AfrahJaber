@@ -12,6 +12,13 @@
 
 ---
 
+## 🎓 Certifications
+- Google Data Analytics Professional Certificate  
+  - Completed hands-on training in data cleaning, analysis, and visualization  
+  - Worked with real-world datasets using spreadsheets, SQL, and Python
+    
+---
+
 ## 🛠 Skills
 - **Tools:** Power BI, Google Sheets, Excel  
 - **Programming:** Python, SQL  
