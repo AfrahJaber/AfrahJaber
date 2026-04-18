@@ -43,8 +43,10 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: linkedin.com/in/afrah-alanazi-b37208271  
-- 💻 GitHub: github.com/AfrahJaber  
+- 💼 LinkedIn: https://www.linkedin.com/in/afrah-alanazi-b37208271  
+- 💻 GitHub: https://github.com/AfrahJaber  
+- 📊 Kaggle: https://www.kaggle.com/afrah7  
+- 📧 Email: Afrahjaber0@gmail.com  
 
 ---
 
