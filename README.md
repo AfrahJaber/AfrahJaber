@@ -13,7 +13,7 @@
 ---
 
 ## 🎓 Certifications
-- Google Data Analytics Professional Certificate – :contentReference[oaicite:0]{index=0}   
+- Google Data Analytics Professional Certificate  
   - Completed hands-on training in data cleaning, analysis, and visualization  
   - Worked with real-world datasets using spreadsheets, SQL, and Python
     
