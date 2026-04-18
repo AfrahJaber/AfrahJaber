@@ -1,56 +1,51 @@
-<h1 align="center">Hi there 👋, I'm Afrah Alanazi</h1>
+# 👋 Hi, I'm Afrah Alanazi
 
-<p align="center">
-📊 <b>Data Analyst | Data Science Graduate</b><br>
-🎓 Google Data Analytics Professional Certificate — Google (Coursera)
-</p>
+🎯 Data Analyst passionate about turning data into actionable insights that support better decision-making.
 
 ---
 
-🌟 Passionate about turning raw data into actionable insights  
-🧠 Skilled in Data Analysis, Machine Learning, and Predictive Analytics  
-🛠️ Building data-driven solutions using <b>Python, R, SQL, Power BI, Tableau, Excel</b>  
-🚀 Interested in AI, data visualization, and real-world problem solving  
+## 🚀 About Me
+- 🎓 Data Science Graduate  
+- 📊 Experienced in analyzing real-world datasets across healthcare, retail, and global trends  
+- 💡 Strong interest in data storytelling and building interactive dashboards  
+- 📈 Continuously improving my skills in data analysis and visualization  
 
 ---
 
-### 🌐 Connect with me
-<p>
-<a href="https://www.linkedin.com/in/afrah-alanazi-b37208271">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:Afrahjaber0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+## 🛠 Skills
+- **Tools:** Power BI, Google Sheets, Excel  
+- **Programming:** Python, SQL  
+- **Techniques:** Data Cleaning, Data Visualization, EDA, Dashboard Design, Data Storytelling  
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/>
-</p>
+## 📊 Featured Projects
+
+### ❤️ Heart Disease Analysis
+- Analyzed a dataset of **918 patients** to identify key risk factors  
+- Built an interactive **Power BI dashboard**  
+- Discovered relationships between chest pain, ST-Slope, and heart disease  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afrahjaber&show_icons=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrahjaber"/>
-</p>
+### 📊 Retail Sales Dashboard
+- Analyzed over **$59M in revenue data** using Google Sheets  
+- Built interactive dashboard with KPIs and slicers  
+- Identified top-performing sales rep and key revenue drivers  
 
 ---
 
-### 📈 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AfrahJaber&show_icons=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfrahJaber"/>
-</p>
+### 🌍 World Happiness Analysis
+- Performed analysis using **Python (Pandas, Seaborn, Plotly)**  
+- Found **very weak correlation (~0.02)** between GDP and happiness  
+- Highlighted importance of social support and freedom  
 
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: linkedin.com/in/afrah-alanazi-b37208271  
+- 💻 GitHub: github.com/AfrahJaber  
+
+---
+
+⭐ *“Turning data into insights, and insights into decisions.”*
